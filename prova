@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title> PROVA </title>
+</head>
+<body>
+
+	<table border="1" align="center" width="83%">
+
+		<tr>
+
+			<td width="25%" align="right" valign="top">
+				<font face="arial" color="blue"> T1 </font>
+			</td>
+
+			<td width="25%" align="center" valign="middle">
+				<font face="verdana" size="10"> T2 </font>
+			</td>
+
+			<td width="25%" align="right" valign="top">
+				<font face="arial" color="blue"> T1 </font>
+			</td>
+
+			<td width="25%" align="center" valign="middle">
+				<font face="verdana" size="10"> T2 </font>
+			</td>
+
+		</tr>
+
+		<tr>
+
+			<td width="25%">
+				<img src="imagens/sorriso.webp" height="33px" width="55px" align="left" valign="">
+				<img src="imagens/sol.webp" height="44px" width="66px" align="center" valign="top">
+			</td>
+
+			<td width="25%" align="right" valign="top">
+				<font face="arial" color="blue"> T1 </font>
+			</td>
+
+			<td width="25%" align="left" valign="bottom">
+				<font size="22"> T3 </font>
+			</td>
+
+			<td width="25%" align="left" valign="middle">
+				<img src="imagens/sorriso.webp" height="33px" width="55px">
+			</td>
+
+		</tr>
+
+		<tr>
+
+			<td width="25%" align="left" valign="bottom">
+				<font size="22"> T3 </font>
+			</td>
+
+			<td width="25%" align="left" valign="middle">
+				<img src="imagens/sorriso.webp" height="33px" width="55px">
+			</td>
+
+			<td width="25%" align="left" valign="middle">
+				<img src="imagens/sorriso.webp" height="33px" width="55px">
+			</td>
+
+			<td width="25%" align="center" valign="middle">
+				<font face="verdana" size="10"> T2 </font>
+			</td>
+
+		</tr>
+
+		<tr>
+
+			<td width="25%" align="right" valign="top">
+				<font face="arial" color="blue"> T1 </font>
+			</td>
+
+			<td width="25%" align="center" valign="middle">
+				<font face="verdana" size="10"> T2 </font>
+			</td>
+
+			<td width="25%" align="right" valign="top">
+				<font face="arial" color="blue"> T1 </font>
+			</td>
+
+			<td width="25%" align="center" valign="top">
+				<img src="imagens/sol.webp" height="44px" width="66px">
+			</td>
+
+		</tr>
+
+		<tr>
+
+			<td width="25%">
+				<font face="arial" color="blue"> T1 </font>
+				<font face="verdana" size="10"> T2 </font>
+				<font size="22"> T3 </font>
+				<img src="imagens/sorriso.webp" height="33px" width="55px">
+				<img src="imagens/sol.webp" height="44px" width="66px">
+			</td>
+
+			<td width="25%" align="left" valign="bottom">
+				<font size="22"> T3 </font>
+			</td>
+
+			<td width="25%" align="left" valign="bottom">
+				<font size="22"> T3 </font>
+			</td>
+
+			<td width="25%" align="center" valign="top">
+				<img src="imagens/sol.webp" height="44px" width="66px">
+			</td>
+
+		</tr>
+
+	</table>
+
+</body>
+</html>
